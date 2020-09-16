@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "piri",
+      "email": "piri@gmail.com"
+      
+    },
+    {
+      "id": 2,
+      "name": "Sanyika",
+      "email": "sanyika@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Big Winnetou",
+      "email": "p@gmail.com"
+    },
+    {
+      "name": "Bori",
+      "email": "B@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Béla",
+      "email": "Béla@sanyi.com",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 6
+    },
+    {
+      "name": "Karcsi",
+      "email": "Karcsika@hotmail.com",
+      "id": 7
+    }
+  ],
+  "comments": []
+}
